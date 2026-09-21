@@ -1,5 +1,9 @@
 # Robot de livraison — exercice Java
 
+Exemple d'affichage :
+
+![Illustration du robot de livraison](robot-livraison.png)
+
 ## Objectif
 
 Vous devez programmer **une seule méthode** :
