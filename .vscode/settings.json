@@ -1,0 +1,18 @@
+{
+    // Pas de propositions de code IA en gris dans l'éditeur
+    "github.copilot.enable": {
+        "*": false
+    },
+    // Pas de prédiction de la prochaine modification
+    "github.copilot.nextEditSuggestions.enabled": false,
+    // Conserver les snippets comme "sout", "main", etc.
+    "editor.snippetSuggestions": "top",
+    // Permet d'insérer directement un snippet avec TAB
+    "editor.tabCompletion": "onlySnippets",
+    // IntelliSense classique conservé
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "off"
+    }
+}
